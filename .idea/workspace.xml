@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d06a4c67-69d6-40f3-91e8-0277188e6ca9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pis/hue2/client/ClientGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pis/hue2/common/Instruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pis/hue2/Instruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pis/hue2/client/LaunchClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pis/hue2/client/LaunchClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pis/hue2/common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pis/hue2/common/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pis/hue2/server/LaunchServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pis/hue2/server/LaunchServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/pishue2" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+                <branch-info repo="$PROJECT_DIR$/pishue2" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/kowalski" />
+                <branch-info repo="$PROJECT_DIR$/pishue2" source="origin/kowalski" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/pishue2" value="c0571783f2e99187464ab09fa4ad475deb6713aa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ueis1n1HmOaVyHib5rt0Hayrbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ClientGUI">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pis.hue2.common.Client" />
+      <module name="PisHue2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pis.hue2.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pis.hue2.client.ClientGUI" />
+      <module name="PisHue2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pis.hue2.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Common" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pis.hue2.common.Common" />
+      <module name="PisHue2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pis.hue2.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pis.hue2.server.LaunchServer" />
+      <module name="PisHue2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pis.hue2.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientGUI" />
+        <item itemvalue="Application.LaunchServer" />
+        <item itemvalue="Application.Common" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Common" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06a4c67-69d6-40f3-91e8-0277188e6ca9" name="Default Changelist" comment="" />
+      <created>1575723665016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575723665016</updated>
+      <workItem from="1575723670083" duration="11513000" />
+      <workItem from="1575893468387" duration="467000" />
+      <workItem from="1575898469169" duration="8962000" />
+      <workItem from="1576615916430" duration="1013000" />
+      <workItem from="1576660185955" duration="2892000" />
+      <workItem from="1576750040773" duration="3036000" />
+      <workItem from="1576756125939" duration="81000" />
+      <workItem from="1576767645801" duration="1742000" />
+      <workItem from="1576781292466" duration="5593000" />
+      <workItem from="1576857281326" duration="63000" />
+      <workItem from="1576876184803" duration="1210000" />
+      <workItem from="1577226381206" duration="1305000" />
+      <workItem from="1577227816517" duration="5467000" />
+      <workItem from="1577364845440" duration="15622000" />
+    </task>
+    <task id="LOCAL-00001" summary="little update">
+      <created>1576794885819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576794885819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="little update">
+      <created>1577381782173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577381782173</updated>
+    </task>
+    <task id="LOCAL-00003" summary="little update">
+      <created>1577382560719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577382560719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="little update">
+      <created>1577383014970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577383014970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="little update">
+      <created>1577387655340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577387655340</updated>
+    </task>
+    <task id="LOCAL-00006" summary="little update">
+      <created>1577388149956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577388149956</updated>
+    </task>
+    <task id="LOCAL-00007" summary="check it">
+      <created>1577388245713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577388245713</updated>
+    </task>
+    <task id="LOCAL-00008" summary="check it">
+      <created>1577388371215</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577388371215</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_WIDTH">
+      <map>
+        <entry key="3" value="168" />
+      </map>
+    </option>
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="little update" />
+    <MESSAGE value="check it" />
+    <option name="LAST_COMMIT_MESSAGE" value="check it" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="234" height="321" key="Git.Branch.Popup" timestamp="1578996257067" />
+    <state width="234" height="321" key="Git.Branch.Popup/1366.768" timestamp="1578996257067" />
+    <state width="234" height="321" key="Git.Branch.Popup@1366.768" timestamp="1578996257067" />
+    <state width="1237" height="93" key="GridCell.Tab.0.bottom" timestamp="1579000390137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579000390137" />
+    <state width="1237" height="93" key="GridCell.Tab.0.center" timestamp="1579000390137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579000390137" />
+    <state width="1237" height="93" key="GridCell.Tab.0.left" timestamp="1579000390136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579000390136" />
+    <state width="1237" height="93" key="GridCell.Tab.0.right" timestamp="1579000390137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579000390137" />
+  </component>
+</project>
